@@ -8,7 +8,6 @@ Implementation is based on Veronica Corona et al.
 import numpy as np
 import copy
 import sys
-import pylops
 
 class PdHgm(object):
     """
@@ -42,9 +41,6 @@ class PdHgm(object):
 
         if param_alpha is not None:
             self.param_alpha = param_alpha
-
-        if isinstance(K, pylops.LinearOperator):
-            self.pylops = False
 
     def restart_counter(self):
         """

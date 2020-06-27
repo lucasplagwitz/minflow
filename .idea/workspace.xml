@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8242e17d-a594-4b4c-b85a-a5e95b1a4665" name="Default Changelist" comment="" />
+    <list default="true" id="8242e17d-a594-4b4c-b85a-a5e95b1a4665" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clusterot/helper/connection_matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clusterot/interfaces/min_cost_flow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clusterot/solver/pd_hgm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clusterot/terms/base_term.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clusterot/terms/cost_flow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clusterot/terms/indicator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exmaples/big_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/exmaples/big_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exmaples/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/exmaples/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exmaples/simple_2d_cost_flow.py" beforeDir="false" afterPath="$PROJECT_DIR$/exmaples/simple_2d_cost_flow.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,35 +20,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clusterot/solver/pd_hgm.py">
+        <entry file="file://$PROJECT_DIR$/minflow/helper/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
-              <folding>
-                <element signature="e#217#235#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="60" selection-start-column="60" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clusterot/terms/cost_flow.py">
+        <entry file="file://$PROJECT_DIR$/minflow/interfaces/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state>
+              <caret column="56" selection-start-column="56" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clusterot/interfaces/min_cost_flow.py">
+        <entry file="file://$PROJECT_DIR$/minflow/helper/connection_matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="315">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="14" />
               <folding>
-                <element signature="e#0#46#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exmaples/simple_2d_cost_flow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -56,10 +64,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/minflow/interfaces/min_cost_flow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exmaples/images.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="35" selection-end-column="28" />
+            <state relative-caret-position="75">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/minflow/solver/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="39" selection-start-column="39" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -70,30 +102,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exmaples/map.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exmaples/big_images.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state relative-caret-position="630">
+              <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exmaples/big_mnist_map.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exmaples/data/search-xxl.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exmaples/map.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -104,6 +126,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pylops</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -117,19 +144,17 @@
         <option value="$PROJECT_DIR$/clusterot/helper/connection_matrix.py" />
         <option value="$PROJECT_DIR$/clusterot/interfaces/min_cost_flow.py" />
         <option value="$PROJECT_DIR$/clusterot/terms/indicator.py" />
-        <option value="$PROJECT_DIR$/exmaples/simple_2d_cost_flow.py" />
+        <option value="$PROJECT_DIR$/minflow/terms/__init__.py" />
+        <option value="$PROJECT_DIR$/minflow/terms/cost_flow.py" />
+        <option value="$PROJECT_DIR$/minflow/terms/indicator.py" />
+        <option value="$PROJECT_DIR$/minflow/solver/pd_hgm.py" />
+        <option value="$PROJECT_DIR$/minflow/solver/__init__.py" />
+        <option value="$PROJECT_DIR$/minflow/interfaces/__init__.py" />
+        <option value="$PROJECT_DIR$/minflow/helper/__init__.py" />
         <option value="$PROJECT_DIR$/exmaples/images.py" />
+        <option value="$PROJECT_DIR$/exmaples/simple_2d_cost_flow.py" />
+        <option value="$PROJECT_DIR$/minflow/interfaces/min_cost_flow.py" />
         <option value="$PROJECT_DIR$/exmaples/big_images.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/ClusterOT.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -147,42 +172,42 @@
         <subPane>
           <expand>
             <path>
-              <item name="ClusterOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClusterOT" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ClusterOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClusterOT" type="462c0819:PsiDirectoryNode" />
-              <item name="clusterot" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
+              <item name="exmaples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ClusterOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClusterOT" type="462c0819:PsiDirectoryNode" />
-              <item name="clusterot" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="minflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
               <item name="helper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ClusterOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClusterOT" type="462c0819:PsiDirectoryNode" />
-              <item name="clusterot" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
               <item name="interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ClusterOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClusterOT" type="462c0819:PsiDirectoryNode" />
-              <item name="clusterot" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
               <item name="solver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ClusterOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClusterOT" type="462c0819:PsiDirectoryNode" />
-              <item name="clusterot" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
+              <item name="minflow" type="462c0819:PsiDirectoryNode" />
               <item name="terms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ClusterOT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ClusterOT" type="462c0819:PsiDirectoryNode" />
-              <item name="exmaples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,18 +218,21 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/clusterot/terms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/minflow/terms" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/exmaples/data" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/minflow/terms" />
+      <recent name="$PROJECT_DIR$/minflow/solver" />
+      <recent name="$PROJECT_DIR$/minflow/interfaces" />
       <recent name="$PROJECT_DIR$/clusterot/terms" />
       <recent name="$PROJECT_DIR$/clusterot/solver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exmaples/data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -350,19 +378,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593200713432</updated>
-      <workItem from="1593200718942" duration="13956000" />
+      <workItem from="1593200718942" duration="14596000" />
+      <workItem from="1593251277028" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13956000" />
+    <option name="totallyTimeSpent" value="14881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -372,7 +401,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.17227723" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.17227723" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -388,28 +417,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exmaples/images.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exmaples/big_images.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/minflow$simple_2d_cost_flow.coverage" NAME="simple_2d_cost_flow Coverage Results" MODIFIED="1593251530037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exmaples" />
     <SUITE FILE_PATH="coverage/ClusterOT$simple_2d_cost_flow.coverage" NAME="simple_2d_cost_flow Coverage Results" MODIFIED="1593245023203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exmaples" />
+    <SUITE FILE_PATH="coverage/minflow$images.coverage" NAME="images Coverage Results" MODIFIED="1593251542640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exmaples" />
     <SUITE FILE_PATH="coverage/ClusterOT$big_images.coverage" NAME="big_images Coverage Results" MODIFIED="1593248284282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exmaples" />
     <SUITE FILE_PATH="coverage/ClusterOT$images.coverage" NAME="images Coverage Results" MODIFIED="1593246385497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exmaples" />
     <SUITE FILE_PATH="coverage/ClusterOT$connection_matrix.coverage" NAME="connection_matrix Coverage Results" MODIFIED="1593242146075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clusterot/helper" />
     <SUITE FILE_PATH="coverage/ClusterOT$min_cost_flow.coverage" NAME="min_cost_flow Coverage Results" MODIFIED="1593244306760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/clusterot/interfaces" />
+    <SUITE FILE_PATH="coverage/minflow$big_images.coverage" NAME="big_images Coverage Results" MODIFIED="1593251553442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exmaples" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -468,43 +484,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clusterot/terms/base_term.py">
+    <entry file="file://$PROJECT_DIR$/clusterot/terms/base_term.py" />
+    <entry file="file://$PROJECT_DIR$/clusterot/helper/connection_matrix.py" />
+    <entry file="file://$PROJECT_DIR$/clusterot/terms/indicator.py" />
+    <entry file="file://$PROJECT_DIR$/clusterot/terms/cost_flow.py" />
+    <entry file="file://$PROJECT_DIR$/clusterot/solver/pd_hgm.py" />
+    <entry file="file://$PROJECT_DIR$/exmaples/data/search-xxl.png" />
+    <entry file="file://$PROJECT_DIR$/clusterot/interfaces/min_cost_flow.py" />
+    <entry file="file://$PROJECT_DIR$/exmaples/big_mnist_map.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minflow/terms/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="30">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clusterot/helper/connection_matrix.py">
+    <entry file="file://$PROJECT_DIR$/minflow/terms/cost_flow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minflow/terms/indicator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minflow/solver/pd_hgm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="e#217#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minflow/solver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minflow/interfaces/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minflow/helper/connection_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="14" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/clusterot/terms/indicator.py">
+    <entry file="file://$PROJECT_DIR$/minflow/helper/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="60" selection-start-column="60" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minflow/interfaces/min_cost_flow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exmaples/simple_2d_cost_flow.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clusterot/terms/cost_flow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clusterot/solver/pd_hgm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#217#235#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -512,51 +582,28 @@
     <entry file="file://$PROJECT_DIR$/exmaples/map.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/exmaples/data/search-xxl.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clusterot/interfaces/min_cost_flow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exmaples/images.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="35" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exmaples/mnist_map.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exmaples/simple_2d_cost_flow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="75">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exmaples/mnist_map.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/exmaples/big_images.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="630">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exmaples/big_mnist_map.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>

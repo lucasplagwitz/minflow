@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_digits
 
-from clusterot.helper.connection_matrix import create_map
-from clusterot.interfaces.min_cost_flow import MinCostFlow
+from minflow.helper import create_map
+from minflow.interfaces import MinCostFlow
 
 digits = load_digits(return_X_y=False)['data']
 nu = np.reshape(digits[0,:], (8, 8))

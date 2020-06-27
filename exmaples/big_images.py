@@ -7,8 +7,8 @@ X, y = fetch_openml('mnist_784', version=1, return_X_y=True)
 zero_ind = np.where(y == '0')
 five_ind =np.where(y == '5')
 
-from clusterot.helper.connection_matrix import create_map
-from clusterot.interfaces.min_cost_flow import MinCostFlow
+from minflow.helper import create_map
+from minflow.interfaces import MinCostFlow
 
 shape = (28, 28)
 
@@ -41,5 +41,4 @@ axarr[0, 2].imshow(np.abs(graph0))
 axarr[1, 0].imshow(nu)
 axarr[1, 1].imshow(mu2)
 axarr[1, 2].imshow(np.abs(graph1))
-#plt.colorbar()
 plt.savefig("big_mnist_map.png")

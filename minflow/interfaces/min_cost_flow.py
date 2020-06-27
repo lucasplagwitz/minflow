@@ -1,7 +1,6 @@
-from clusterot.terms.cost_flow import CostFlow
-from clusterot.terms.indicator import Indicator
-from clusterot.solver.pd_hgm import PdHgm
-from clusterot.helper.connection_matrix import direct_connection
+from minflow.terms import CostFlow, Indicator
+from minflow.solver.pd_hgm import PdHgm
+from minflow.helper import direct_connection
 
 import numpy as np
 

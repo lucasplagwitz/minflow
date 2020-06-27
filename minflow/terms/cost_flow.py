@@ -1,4 +1,4 @@
-from clusterot.terms.base_term import BaseTerm
+from minflow.terms import BaseTerm
 
 class CostFlow(BaseTerm):
 
